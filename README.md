@@ -22,3 +22,4 @@
 Статьи об оптимизации под нагрузку
 http://habrahabr.ru/post/198982/
 http://habrahabr.ru/post/203320/
+http://phpclub.ru/detail/store/html/postgresql/node2.html
