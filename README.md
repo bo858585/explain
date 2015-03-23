@@ -9,18 +9,14 @@
 - explain - проверять время работы sql запросов на этой ститистике
 - buffers - показать кеши при выполнении explain analise (в памяти или на диске)
 
-###Схема работы с explain/django (оптимизация простых запросов):
-
-- Создать большую таблицу
-- Создать индексы в используемой таблице согласно логике запросов, которые есть в django-коде.
-- Взять sql запрос из django: queryset.query или подобный запрос
-- Запустить analyse для этого запроса
-- При замедлениях искать, где запрос тормозит, оптимизировать запрос руками и заменять существующий запрос на оптимизированный теперь уже row-запрос.
-
-(проверить)
+Explain есть в django-debug-toolbar.
 
 Статьи об оптимизации под нагрузку
 http://habrahabr.ru/post/198982/
 http://habrahabr.ru/post/203320/
 http://phpclub.ru/detail/store/html/postgresql/node2.html
 http://eax.me/freebsd-vs-linux/
+
+http://www.freebsd.org/cgi/man.cgi?query=netgraph&sektion=4
+http://www.freebsd.org/cgi/man.cgi?query=geom&sektion=4
+
