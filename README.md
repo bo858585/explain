@@ -21,3 +21,6 @@ http://eax.me/freebsd-vs-linux/
 http://www.freebsd.org/cgi/man.cgi?query=netgraph&sektion=4
 http://www.freebsd.org/cgi/man.cgi?query=geom&sektion=4
 
+###LDAP
+http://www.osp.ru/os/2004/12/184900/
+
