@@ -23,4 +23,4 @@ http://www.freebsd.org/cgi/man.cgi?query=geom&sektion=4
 
 ###LDAP
 http://www.osp.ru/os/2004/12/184900/
-
+http://www.opennet.ru/base/net/debian_ldap_install1.txt.html
