@@ -17,10 +17,6 @@ http://habrahabr.ru/post/203320/
 http://phpclub.ru/detail/store/html/postgresql/node2.html
 http://eax.me/freebsd-vs-linux/
 
-###Структура freebsd
-http://www.freebsd.org/cgi/man.cgi?query=netgraph&sektion=4
-http://www.freebsd.org/cgi/man.cgi?query=geom&sektion=4
-http://glotych.com.ua/netsetup.php
 
 ###LDAP
 http://www.osp.ru/os/2004/12/184900/
